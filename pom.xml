@@ -248,7 +248,7 @@
     <dependency>
       <groupId>com.openshift.jenkins</groupId>
       <artifactId>openshift-pipeline</artifactId>
-      <version>1.0.28</version>
+      <version>1.0.57</version>
       <exclusions>
         <exclusion>
           <groupId>com.openshift</groupId>
